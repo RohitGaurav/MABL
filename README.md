@@ -8,7 +8,7 @@
 
 * Step 3) Navigate to the src folder: ```cd "your_workspace_name"```
 
-* Step 4) Clone the contents of this repo using: ```git clone https://github.com/arorasarthak/rosamigo.git .src```
+* Step 4) Clone the contents of this repo using: ```git clone https://github.com/rg9127/MABL.git```
 
 * Step 5) Navigate back to your workspace: ```cd ..```
   
