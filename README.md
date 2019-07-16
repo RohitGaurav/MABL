@@ -1,4 +1,4 @@
-# MABL
+# AmigoBot
 
 
 ## Follow these instructions:
